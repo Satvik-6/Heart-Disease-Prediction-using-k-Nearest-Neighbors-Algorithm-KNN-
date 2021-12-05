@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction-using-k-Nearest-Neighbors-Algorithm-KNN-
+# Comparative study of KNN and Decision Tree in prediction of Heart Disease
 Data Analytics Project
